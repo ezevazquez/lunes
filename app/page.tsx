@@ -4,8 +4,8 @@ import SoundCloudPlayer from "./components/SoundCloudPlayer";
 export default function HomePage() {
   return (
     <div>
-      {/* <Player /> */}
-      <SoundCloudPlayer />
+      <Player />
+      {/* <SoundCloudPlayer /> */}
     </div>
   );
 }
