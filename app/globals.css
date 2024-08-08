@@ -25,3 +25,8 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+iframe {
+  max-width: 100%;
+  border: none;
+}
